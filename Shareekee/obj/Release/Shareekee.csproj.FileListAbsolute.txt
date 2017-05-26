@@ -1,0 +1,9 @@
+C:\CODE\Shareekee\Shareekee\bin\Release\Shareekee.exe.config
+C:\CODE\Shareekee\Shareekee\bin\Release\Shareekee.exe
+C:\CODE\Shareekee\Shareekee\bin\Release\Shareekee.pdb
+C:\CODE\Shareekee\Shareekee\obj\Release\Shareekee.csprojResolveAssemblyReference.cache
+C:\CODE\Shareekee\Shareekee\obj\Release\Shareekee.Form1.resources
+C:\CODE\Shareekee\Shareekee\obj\Release\Shareekee.Properties.Resources.resources
+C:\CODE\Shareekee\Shareekee\obj\Release\Shareekee.csproj.GenerateResource.Cache
+C:\CODE\Shareekee\Shareekee\obj\Release\Shareekee.exe
+C:\CODE\Shareekee\Shareekee\obj\Release\Shareekee.pdb
